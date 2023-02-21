@@ -1,0 +1,16 @@
+Project - Data cleaning 
+Dataset - Worldwide shark attacks
+
+Tab: 
+- Shark_attack_start: initial raw data 
+
+- Cleaned data: 
+1.General inspection of dataset 
+2.deleted the unwanted rows 
+3.Removed duplictaes and blank rows 
+4.Found duplicate values for Case number using conditional formatting 
+5.Populated the blank cells of year using LEFT( ) , found the blank cells of type and replaced with word "Unknown"  and deleted country with blank values. 
+6.Found and replaced all blank cells between Column Area and Injury with the value unknown
+7. For the column Fatal all values other than Y or N have been replaced with unknown 
+
+- Created pivot table charts for a better understanding in the 3 remaining tabs to find out any anomalies/outliers
