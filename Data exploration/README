@@ -1,0 +1,11 @@
+Project: Data exploration
+Dataset: Telecom customer
+
+Data exploration: 
+- Scratch data: initial raw data to work with 
+- Sheet1: Modified the area_code column by removing initial string , replaced the value in Churn column with 0 and 1 and finally calculated the Churn rate and compared it agaist the industry average
+- Sheet 2: Calculated the descriptive statistics of the numerical columns , I have also commneted on columns with most variation and largest difference between mean and median value
+- Sheet 3: Explore data grouped by state and churn
+- Sheet 4: Explored data grouped by voice_mail_plan and churn 
+- Sheet 5 : Visualized data 
+- Report: report on general findings 
