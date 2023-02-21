@@ -1,0 +1,8 @@
+Project: Trend analysis
+Dataset: Housing - Trend analysis
+
+- I have started the project by exploring the dataset and found the month when highest and lowest amount of houses being built.
+- A histogram was created to show the distribution but since a time series is in question we need to create a line chart to get a better understanding. 
+- A line chart with monthly data showed too many variation so I have reduced the time intervals to quarter by resampling it in Pivot table. 
+- An uptrend was noticed for the Q2 and Q3 over the years and this seasonality was demonstrated with a stacked column pivot chart. 
+- I have used a linear trendline but due the variation we have for seasonality it is better to use Forecast sheet feature for a better prediction. 
