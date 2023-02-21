@@ -1,0 +1,11 @@
+Project: data analysis - Variance analysis 
+Dataset: Nashville budget_actual 
+Goal: To find the variance in budget and actual amount in both fund and department level
+
+- Scratch data: initial raw data 
+- Table tab:  created table, added calculated field column $ to budget and calculated the total budget    using table syntax
+- Screen 2: Calculated the total actual and budget total at funds level
+- Screen 3: Created pivot table , added the custom group which consists only of debt service fund and renamed to Debt service. 
+- Screen 4: added two new calculated fields columns. 
+  $ variance has used the formula budget - actual and % variance has used the formula (budget-     actual)/budget
+- Screen 5: Visualized the variances with a column chart
