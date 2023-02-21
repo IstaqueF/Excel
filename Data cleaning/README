@@ -1,5 +1,6 @@
 Project - Data cleaning 
 Dataset - Worldwide shark attacks
+Goal: Clean the data appropriately and get it ready for exploration
 
 Tab: 
 - Shark_attack_start: initial raw data 
