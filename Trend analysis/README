@@ -1,5 +1,6 @@
 Project: Trend analysis
 Dataset: Housing - Trend analysis
+Goal: Predict the trend of housing construction 
 
 - I have started the project by exploring the dataset and found the month when highest and lowest amount of houses being built.
 - A histogram was created to show the distribution but since a time series is in question we need to create a line chart to get a better understanding. 
